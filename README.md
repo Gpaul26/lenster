@@ -87,4 +87,6 @@ We love contributors! Feel free to contribute to this project but please read th
 
 ## ⚖️ License
 
+
+Lets partyy
 Lenster is open-sourced software licensed under the © [MIT](LICENSE).
