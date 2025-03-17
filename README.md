@@ -66,6 +66,7 @@ cd apps/web
 cp .env.example .env
 yarn install
 yarn dev
+yarn version
 ```
 
 and visit http://localhost:4783
